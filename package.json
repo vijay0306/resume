@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "strart": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijay0306/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijay0306/resume/issues"
+  },
+  "homepage": "https://github.com/vijay0306/resume#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
